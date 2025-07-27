@@ -3,8 +3,9 @@
 % The code is adapted from:
 % H. Azami and J. Escudero, "Amplitude- and Fluctuation-based Dispersion Entropy", Entropy, 2018.
 % Available at: https://github.com/HamedAzami/Univariate_Entropy_Methods
-% Extract BOLD denoised timeseries from SPM/CONN Toolbox outputs,
 
+
+% Extract BOLD denoised timeseries from SPM/CONN Toolbox outputs,
 
 clearvars
 
